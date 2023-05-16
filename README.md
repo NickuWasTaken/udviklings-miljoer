@@ -44,7 +44,7 @@ Start ny spec for korrekt mappe struktur
 
 Tilføj Workflow.txt som GitHub Action
 
-Hent mappen i projektet kaldet `scripts` og jæg den i /rootDir
+Hent mappen i projektet kaldet `scripts` og tilføj den til /rootDir
 ```
 npm i serve
 ```

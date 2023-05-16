@@ -4,11 +4,10 @@
 
 ## Refactoring:
 ### Linting:
-Arbejder man i et Vue projekt med linting er det så nemt som at kører linting scriptet (projektets CLI Kommando) i ens GitHub Action workflow
+Arbejder man i et Vue projekt med linting er det så nemt som at kører linting scriptet i ens GitHub Action workflow <br>
 Actionen kan findes under `📁refactoring` i filen `📄 linting.yml`
 
 Kræves der der skal installeres Linting i projektet?
-Kør kommandoerne:
 ```
 npm init @eslint/config
 ```
@@ -17,8 +16,7 @@ Komplet guide kan findes på: <br>
 https://www.jetbrains.com/help/qodana/github.html
 
 ## Unit-test:
-Installer Vue Test utils og Jest
-Med kommandoerne:
+Installer Vue Test utils og Jest <br>
 ```
 npm install --save-dev jest @vue/test-utils
 ```
@@ -27,7 +25,7 @@ Lav nu en mappe i tests kaldet `📁unit` <br>
 Lav nu en fil i `📁unit` kaldet `📄 unit.spec.js` <br>
 Actionen kan findes under `📁refactoring` i filen `📄 unit-test.yml`
 
-<sub>Alternativt kan du uploade filerne i projektet</sub>
+<sub>Alternativt kan du downloade filerne i projektet</sub>
 
 Ekstra info findes på: <br>
 https://test-utils.vuejs.org/installation/ <br>

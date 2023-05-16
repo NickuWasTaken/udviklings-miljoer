@@ -23,9 +23,9 @@ Med kommandoerne:
 npm install --save-dev jest @vue/test-utils
 ```
 Lav en ny mappe i root directory som hedder tests <br>
-Lav nu en mappe i tests kaldet unit <br>
-Lav nu en fil i unit kaldet unit.spec.js <br>
-Actionen kan findes under `📁refactoring` i filen `📄 unit-test.yml`
+Lav nu en mappe i tests kaldet `📁unit` <br>
+Lav nu en fil i `📁unit` kaldet `📄unit.spec.js` <br>
+Actionen kan findes under `📁refactoring` i filen `📄unit-test.yml`
 
 <sub>Alternativt kan du uploade filerne i projektet</sub>
 
@@ -46,10 +46,10 @@ Start ny spec for korrekt mappe struktur
 
 Tilføj `📄 E2E.yml` til GitHub Action
 
-Hent mappen i projektet kaldet `📁scripts` og tilføj den til /rootDir
+Hent mappen i projektet kaldet `📁scripts` og tilføj den til root directory
 ```
 npm i serve
 ```
-Hent filen i projektet ved navn `📄 serve.js` og tilføj filen til /rootDir
+Hent filen i projektet ved navn `📄 serve.js` og tilføj filen til root directory
 
 Angiv sti i serve.json under "public:"

@@ -24,8 +24,8 @@ npm install --save-dev jest @vue/test-utils
 ```
 Lav en ny mappe i root directory som hedder `📁tests` <br>
 Lav nu en mappe i tests kaldet `📁unit` <br>
-Lav nu en fil i `📁unit` kaldet `📄unit.spec.js` <br>
-Actionen kan findes under `📁refactoring` i filen `📄unit-test.yml`
+Lav nu en fil i `📁unit` kaldet `📄 unit.spec.js` <br>
+Actionen kan findes under `📁refactoring` i filen `📄 unit-test.yml`
 
 <sub>Alternativt kan du uploade filerne i projektet</sub>
 

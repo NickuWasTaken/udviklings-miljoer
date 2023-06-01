@@ -12,7 +12,7 @@ Kræves der der skal installeres Linting i projektet?
 npm init @eslint/config
 ```
 ### Qodana:
-Installér Scoop og Qodana, følg derefter guiden til basic setup og cloud
+Installér Scoop og Qodana, følg derefter guiden til basic setup og cloud. <br>
 Komplet guide kan findes på: <br>
 1. https://www.jetbrains.com/help/qodana/quick-start.html#quickstart-analyze-project-locally
 2. https://www.jetbrains.com/help/qodana/github.html#Basic+configuration <br>

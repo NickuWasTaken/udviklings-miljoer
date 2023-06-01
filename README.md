@@ -14,9 +14,9 @@ npm init @eslint/config
 ### Qodana:
 Installér Scoop og Qodana, følg derefter guiden til basic setup og cloud
 Komplet guide kan findes på: <br>
-https://www.jetbrains.com/help/qodana/quick-start.html#quickstart-analyze-project-locally
-https://www.jetbrains.com/help/qodana/github.html#Basic+configuration <br>
-[https://www.jetbrains.com/help/qodana/github.html](https://www.jetbrains.com/help/qodana/github.html#Qodana+Cloud)
+1. https://www.jetbrains.com/help/qodana/quick-start.html#quickstart-analyze-project-locally
+2. https://www.jetbrains.com/help/qodana/github.html#Basic+configuration <br>
+3. [https://www.jetbrains.com/help/qodana/github.html](https://www.jetbrains.com/help/qodana/github.html#Qodana+Cloud)
 
 ## Unit-test:
 Installer Vue Test utils og Jest <br>
